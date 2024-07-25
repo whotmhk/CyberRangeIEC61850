@@ -1,6 +1,7 @@
 #############################################################################
-# This is for MSSD project Student ID 1007386
-# Reference Credit - Source Goosestalker
+# This is for MSSD Project Student ID 1007386
+# Titled : Cyber Range of Critical Infrastructure for Cybersecurity Experiment
+# Reference Goosestalker
 ############################################################################
 import os, sys, datetime, inspect, logging
 from pyasn1.codec.ber import decoder
