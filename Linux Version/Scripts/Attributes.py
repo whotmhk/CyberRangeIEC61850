@@ -1,7 +1,8 @@
-#########################################################################
-# This is for MSSD project - Student ID:1007386
+###########################################################################
+# This is for MSSD project Student ID: 1007386
+# Titled : Cyber Range of Critical Infrastructure for Cybersecurity Experiment
 # Reference Mitre Caldera IEC61850 Abilities
-########################################################################
+##########################################################################
 import subprocess
 import datetime
 
