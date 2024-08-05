@@ -1,0 +1,12 @@
+Clauses,Descriptions,"Compliance (Yes, Partial or Not)"
+10.4.1,10.4.1 The CIIO shall establish mechanisms and processes to reduce and manage cybersecurity risks relating to connections between a field controller and any network or device  including: ,Options
+10.4.1 (a),"10.4.1(a) Establishing a separate communication module when connecting the field controller to an external network or device to prevent unauthorised access to 
+the OT CII through the field controller;",Options
+10.4.1 (b),10.4.1(b) Implementing authentication processes for data transmission between the field controller and any network or device; ,Options
+10.4.1 (c),"10.4.1(c) Preventing unauthorised data transmission including unauthorised write functions, to ensure the safety and reliability of the operations; ",Options
+10.4.1 (d),10.4.1(d) Preventing data transmission between the field controller and the network or device when the field controller is in a fault or error state  except where doing so would adversely affect the safety and reliability of operations; and ,Options
+10.4.1 (e),10.4.1(e) Enabling security features such as password-protection. ,Options
+10.4.2,"10.4.2 The CIIO shall ensure that all alerts, errors and warnings from the field controllers are investigated in a timely manner. ",Options
+10.4.3,10.4.3 The CIIO shall establish mechanisms to monitor for alert suppression in the field controllers and trigger an alert for investigation when any unauthorised alert suppression is detected. ,Options
+10.4.4,"10.4.4 The CIIO shall establish baselines for normal day-to-day operational activities of field controllers, including baselines for cycle time, operational uptime, stop state, and memory usage, against which the CIIO is to monitor for deviations and anomalous activities, and trigger an alert for investigation when any deviation or anomaly is detected. ",Options
+10.4.5,10.3.5 The CIIO shall review the baselines referred to in clause 10.4.4 at least once every 12 months. The first instance of this review is to be completed no later than 12 months from the time the baseline is established.    ,Options

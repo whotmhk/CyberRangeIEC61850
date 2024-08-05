@@ -1,0 +1,8 @@
+Clauses,Descriptions,"Compliance (Yes, Partial or Not)"
+10.3.1,10.3.1 The CIIO shall verify the integrity of all embedded firmware of OT CII assets before they are used in the CII and shall periodically verify the integrity of all embedded firmware in the OT CII.  ,Options
+10.3.2,10.3.2 The CIIO shall verify the integrity of the programme codes in a field controller before use and shall periodically verify the integrity of all programme codes in field contollers.,Options
+10.3.3,"10.3.3 With regard to field controllers that are intended to have a fail-safe state, the CIIO shall identify and include interlocks in the field controllers?? programme codes.",Options
+10.3.4,10.3.4 The CIIO shall establish mechanisms to validate the input values to the field controller to ensure that they are within a valid operational range.  ,Options
+10.3.5,10.3.5 The CIIO shall ensure that no unauthorised changes are made to the programme code or input values of a field controller.  ,Options
+10.3.6,"10.3.6 The CIIO shall assign a separate and designated register block each for reading, writing, validating writes, calculation, and any other relevant function of the field controller, in order to facilitate data verification, prevent buffer overflows, prevent unauthorised writes and protect controller data.  ",Options
+10.3.7,"10.3.7 The CIIO shall identify programme codes in a field controller that function independently of other programme codes within the field controller, and modularise such programme codes to facilitate the detection of malicious codes. ",Options
